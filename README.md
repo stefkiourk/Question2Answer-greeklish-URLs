@@ -1,4 +1,7 @@
 Question2Answer-greeklish-URLs
 ==============================
 
-Greek-to-Greeklish URI conversion
+An extension for [Question2Answer](http://www.question2answer.org/).
+Converts Greek characters in question URLs into Latin equivalents.
+
+*Author: Stefanos Kiourkoulis*
